@@ -36,7 +36,7 @@ configure_wordpress() {
             key=$(echo "$setting" | cut -d '=' -f1 | xargs)
             value=$(echo "$setting" | cut -d '=' -f2 | xargs)
             sed -i "s/^define(\\s*'${key}'\\s*,\\s*'.*'\\s*)\\s*;/define( '${key}', '${value}' );/" "$wp_config"
-            log "$php_ini_file : $key = $value"
+            log "$wp_config : $key = $value"
         fi
     done
 }
