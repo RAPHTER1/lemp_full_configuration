@@ -26,7 +26,7 @@ configure_php() {
             key=$(echo "$setting" | cut -d '=' -f1 | xargs)
             value=$(echo "$setting" | cut -d '=' -f2 | xargs)
             sed -i "s/^${key}\\s*=.*/${key} = ${value}/" "$php_ini_file"
-            log "$CONFIG_FILE : $key = $value"
+            log "$php_ini_file : $key = $value"
         fi
     done
 
