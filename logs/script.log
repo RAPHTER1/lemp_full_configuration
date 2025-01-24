@@ -1,0 +1,58 @@
+[2025-01-24 20:13:55] Démarrage du script principal.
+[2025-01-24 20:13:55] Vérification des paquets à installer.
+[2025-01-24 20:14:00] Le paquet nginx est déjà à jours.
+[2025-01-24 20:14:01] Le paquet mariadb-server est déjà à jours.
+[2025-01-24 20:14:01] Le paquet php est déjà à jours.
+[2025-01-24 20:14:01] Le paquet php-fpm est déjà à jours.
+[2025-01-24 20:14:02] Le paquet php-curl est déjà à jours.
+[2025-01-24 20:14:02] Le paquet php-mysql est déjà à jours.
+[2025-01-24 20:14:02] Le paquet php-gd est déjà à jours.
+[2025-01-24 20:14:03] Le paquet php-mbstring est déjà à jours.
+[2025-01-24 20:14:03] Le paquet php-xml est déjà à jours.
+[2025-01-24 20:14:03] Le paquet php-imagick est déjà à jours.
+[2025-01-24 20:14:04] Le paquet php-zip est déjà à jours.
+[2025-01-24 20:14:04] Le paquet php-xmlrpc est déjà à jours.
+[2025-01-24 20:14:04] Gestion des paquets terminée avec sucès.
+[2025-01-24 20:14:04] La version 8.3 de PHP est installé sur la machine.
+[2025-01-24 20:14:04] /etc/php/8.3/fpm/php.ini : cgi_path_info = 0
+[2025-01-24 20:14:04] /etc/php/8.3/fpm/php.ini : upload_max_filesize = 128M
+[2025-01-24 20:14:04] /etc/php/8.3/fpm/php.ini : post_max_size = 128M
+[2025-01-24 20:14:04] /etc/php/8.3/fpm/php.ini : memory_limit = 512M
+[2025-01-24 20:14:04] /etc/php/8.3/fpm/php.ini : max_execution_time = 120
+[2025-01-24 20:14:05] Début de l'installation de WordPress.
+[2025-01-24 20:14:05] WordPress est déjà installé.
+[2025-01-24 20:14:05] Début de la configuration de WordPress.
+[2025-01-24 20:14:05] /etc/php/8.3/fpm/php.ini : DB_NAME = wordpress
+[2025-01-24 20:14:05] /etc/php/8.3/fpm/php.ini : DB_USER = wordpress
+[2025-01-24 20:14:05] /etc/php/8.3/fpm/php.ini : DB_PASSWORD = DatascientestWordpress@
+[2025-01-24 20:14:05] /etc/php/8.3/fpm/php.ini : DB_HOST = localhost
+[2025-01-24 20:14:05] Script exécuté avec succès.
+[2025-01-24 20:15:58] Démarrage du script principal.
+[2025-01-24 20:15:58] Vérification des paquets à installer.
+[2025-01-24 20:16:01] Le paquet nginx est déjà à jours.
+[2025-01-24 20:16:01] Le paquet mariadb-server est déjà à jours.
+[2025-01-24 20:16:02] Le paquet php est déjà à jours.
+[2025-01-24 20:16:02] Le paquet php-fpm est déjà à jours.
+[2025-01-24 20:16:02] Le paquet php-curl est déjà à jours.
+[2025-01-24 20:16:03] Le paquet php-mysql est déjà à jours.
+[2025-01-24 20:16:03] Le paquet php-gd est déjà à jours.
+[2025-01-24 20:16:03] Le paquet php-mbstring est déjà à jours.
+[2025-01-24 20:16:04] Le paquet php-xml est déjà à jours.
+[2025-01-24 20:16:04] Le paquet php-imagick est déjà à jours.
+[2025-01-24 20:16:04] Le paquet php-zip est déjà à jours.
+[2025-01-24 20:16:05] Le paquet php-xmlrpc est déjà à jours.
+[2025-01-24 20:16:05] Gestion des paquets terminée avec sucès.
+[2025-01-24 20:16:05] La version 8.3 de PHP est installé sur la machine.
+[2025-01-24 20:16:05] /etc/php/8.3/fpm/php.ini : cgi_path_info = 0
+[2025-01-24 20:16:05] /etc/php/8.3/fpm/php.ini : upload_max_filesize = 128M
+[2025-01-24 20:16:05] /etc/php/8.3/fpm/php.ini : post_max_size = 128M
+[2025-01-24 20:16:05] /etc/php/8.3/fpm/php.ini : memory_limit = 512M
+[2025-01-24 20:16:05] /etc/php/8.3/fpm/php.ini : max_execution_time = 120
+[2025-01-24 20:16:05] Début de l'installation de WordPress.
+[2025-01-24 20:16:05] WordPress est déjà installé.
+[2025-01-24 20:16:05] Début de la configuration de WordPress.
+[2025-01-24 20:16:05] /var/www/html/wordpress/wp-config.php : DB_NAME = wordpress
+[2025-01-24 20:16:05] /var/www/html/wordpress/wp-config.php : DB_USER = wordpress
+[2025-01-24 20:16:05] /var/www/html/wordpress/wp-config.php : DB_PASSWORD = DatascientestWordpress@
+[2025-01-24 20:16:05] /var/www/html/wordpress/wp-config.php : DB_HOST = localhost
+[2025-01-24 20:16:05] Script exécuté avec succès.
